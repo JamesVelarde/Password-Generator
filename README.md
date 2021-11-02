@@ -14,3 +14,6 @@ Javascript was used in this project to form a passowrd using a cobmination of th
 * HTML
 * CSS
 * Javascript
+
+## Deployed Link
+https://jamesvelarde.github.io/Password-Generator/
